@@ -1,0 +1,6 @@
+/Users/zhannur/RiderProjects/Habit/Habit/bin/Debug/Habit.exe
+/Users/zhannur/RiderProjects/Habit/Habit/bin/Debug/Habit.pdb
+/Users/zhannur/RiderProjects/Habit/Habit/obj/Debug/Habit.csproj.AssemblyReference.cache
+/Users/zhannur/RiderProjects/Habit/Habit/obj/Debug/Habit.csproj.CoreCompileInputs.cache
+/Users/zhannur/RiderProjects/Habit/Habit/obj/Debug/Habit.exe
+/Users/zhannur/RiderProjects/Habit/Habit/obj/Debug/Habit.pdb
